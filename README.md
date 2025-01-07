@@ -3,11 +3,11 @@
 <a name="readme-top"></a>
 
 <h2 align="center">
-<a href="https://www.onyx.app/"> <img width="50%" src="https://github.com/onyx-dot-app/onyx/blob/logo/OnyxLogoCropped.jpg?raw=true)" /></a>
+<p>Tark</p>
 </h2>
 
 <p align="center">
-<p align="center">Open Source Gen-AI + Enterprise Search.</p>
+<p align="center">Think Faster, Move Forward</p>
 
 <p align="center">
 <a href="https://docs.onyx.app/" target="_blank">
